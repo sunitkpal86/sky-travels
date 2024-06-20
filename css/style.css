@@ -619,7 +619,7 @@ a:focus {
           transform: translateY(-3px);
 }
 
-. _section .box {
+.service_section .box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -634,11 +634,11 @@ a:focus {
   margin-top: 120px;
 }
 
-. _section .box .img-box img {
+.service_section .box .img-box img {
   max-width: 100%;
 }
 
-. _section .box .detail-box {
+.service_section .box .detail-box {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
@@ -660,7 +660,7 @@ a:focus {
   border-radius: 145px;
 }
 
-. _section .box .detail-box .img-box {
+.service_section .box .detail-box .img-box {
   width: 75px;
   height: 75px;
   display: -webkit-box;
@@ -674,36 +674,36 @@ a:focus {
           justify-content: center;
 }
 
-. _section .box .detail-box .img-box img {
+.service_section .box .detail-box .img-box img {
   max-width: 100%;
   max-height: 100%;
 }
 
-. _section .box .detail-box .img-box .img2 {
+.service_section .box .detail-box .img-box .img2 {
   display: none;
 }
 
-. _section .box .detail-box .text-box {
+.service_section .box .detail-box .text-box {
   margin-top: 15px;
 }
 
-. _section .box .detail-box .text-box h6 {
+.service_section .box .detail-box .text-box h6 {
   font-weight: bold;
 }
 
-. _section .box .detail-box:hover {
+.service_section .box .detail-box:hover {
   border-color: #144a9e;
 }
 
-. _section .box .detail-box:hover .img-box .img1 {
+.service_section .box .detail-box:hover .img-box .img1 {
   display: none;
 }
 
-. _section .box .detail-box:hover .img-box .img2 {
+.service_section .box .detail-box:hover .img-box .img2 {
   display: block;
 }
 
-. _section .box .btn-box {
+.service_section .box .btn-box {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -712,7 +712,7 @@ a:focus {
           justify-content: center;
 }
 
-. _section .box .btn-box a {
+.service_section .box .btn-box a {
   display: inline-block;
   padding: 14px 75px;
   background-color: #001937;
@@ -724,7 +724,7 @@ a:focus {
   margin-top: 55px;
 }
 
-. _section .box .btn-box a:hover {
+.service_section .box .btn-box a:hover {
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
 }
